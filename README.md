@@ -10,7 +10,7 @@ I am currently learning docker.<br>I am interested  in projects related to :<br>
 ![HTML5](https://img.shields.io/badge/-html5-000?&logo=html5&logoColor=00599C)
 ![CSS3](https://img.shields.io/badge/-css3-000?&logo=css3)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+
 
 ## Technologies
 
