@@ -6,7 +6,7 @@ I am currently learning docker.<br>I am interested  in projects related to :<br>
 ### 📖 Languages
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![C](https://img.shields.io/badge/-C-000?&logo=C)
+![C](https://img.shields.io/badge/--000?&logo=C)
 ![HTML5](https://img.shields.io/badge/-html5-000?&logo=html5&logoColor=00599C)
 ![CSS3](https://img.shields.io/badge/-css3-000?&logo=css3)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
