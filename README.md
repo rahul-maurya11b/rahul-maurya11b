@@ -38,11 +38,8 @@ If you share a similar passion for exploration and innovation, I invite you to j
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rahul-maurya11b&theme=radical&hide_border=false)<br/>
 
-## 🔝 Top Contributed Repo
 
-![](https://github-contributor-stats.vercel.app/api?username=rahul-maurya11b&limit=5&theme=radical&combine_all_yearly_contributions=true)
-
-## 🌐 Connect with me:
+### 🌐 Connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rahul-maurya-619680215) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/rahulmaurya_7) 
 ---
