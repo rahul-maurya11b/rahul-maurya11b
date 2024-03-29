@@ -1,7 +1,14 @@
 
 ### 💫 About Me:
 
-I am currently learning docker.<br>I am interested  in projects related to :<br>*AI<br>*ML/DL<br>*NLP
+Welcome to my GitHub profile! Within the chambers of my heart lies the fiery spirit of an intrepid wanderer, driven by an insatiable thirst for the undiscovered, ready to dance with the mysteries of the universe, journeying through the fascinating intersection of mathematics and modern technology. My academic path at NIT Surat, Gujarat, India, has been a thrilling expedition, where I'm diving deep into mathematical concepts and their practical applications.
+
+I'm not just a student; I'm a math and tech enthusiast, driven by curiosity and the desire to conquer new challenges. But my adventure doesn't stop there. I'm deeply interested in the open-source world, where innovation knows no bounds. It's where I find myself at home, collaborating with fellow enthusiasts to create something impactful.
+
+My interests extend beyond the realm of mathematics and technology. I'm particularly drawn to the fields of artificial intelligence, machine learning, and deep learning. I see them not just as tools but as catalysts for change, whether it's tackling climate change or revolutionizing image processing.
+
+So, if you're on a similar journey or have an exciting project in mind, let's join forces and explore the endless possibilities together!
+
 
 ### 📖 Languages
 
