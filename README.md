@@ -17,7 +17,6 @@ I am currently learning docker.<br>I am interested  in projects related to :<br>
 ![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
 ![Pandas](https://img.shields.io/badge/-pandas-%23150458.svg?&logo=pandas&logoColor=F90)
 ![NumPy](https://img.shields.io/badge/-numpy-%23013243.svg?&logo=numpy)
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-%23ffffff.svg?&logo=Matplotlib)
 ![scikit-learn](https://img.shields.io/badge/-scikit--learn-%23F7931E.svg?&logo=scikit-learn&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
