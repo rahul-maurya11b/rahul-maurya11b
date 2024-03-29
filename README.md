@@ -1,7 +1,6 @@
 
-### 💫 About Me:
 
-### Welcome to my GitHub profile!  
+### 💫 Welcome to my GitHub profile!  
 
 🌟🌟In the heart of my academic pursuits lies a genuine passion for exploration, as I navigate the intricate blend of mathematics and technology at NIT Surat, Gujarat, India. My journey through academia has been both exhilarating and challenging, as I delve into the depths of mathematical theories and their practical applications in modern technology.
 
