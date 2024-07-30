@@ -2,14 +2,6 @@
 
 ### 💫 Welcome to my GitHub profile!  
 
-🌟🌟In the heart of my academic pursuits lies a genuine passion for exploration, as I navigate the intricate blend of mathematics and technology at NIT Surat, Gujarat, India. My journey through academia has been both exhilarating and challenging, as I delve into the depths of mathematical theories and their practical applications in modern technology.
-
-But beyond the confines of textbooks and classrooms, I'm driven by a sincere curiosity and a hunger to overcome obstacles. I find inspiration in the collaborative spirit of the open-source community, where I actively engage with like-minded individuals to contribute and learn from one another.
-
-While my roots may lie in mathematics and technology, my interests extend far beyond these domains. I am particularly drawn to the potential of artificial intelligence, machine learning, and deep learning to address real-world issues such as climate change and image processing.
-
-If you share a similar passion for exploration and innovation, I invite you to join me in this journey of discovery. Together, let's harness the power of technology to make a positive impact on the world around us!!🌟🌟
-
 
 ### 📖 Languages
 
